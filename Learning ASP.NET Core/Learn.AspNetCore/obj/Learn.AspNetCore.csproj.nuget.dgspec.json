@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Working Directory\\Asp.NET Core\\Learn.AspNetCore\\Learn.AspNetCore.csproj": {}
+    "C:\\Working Directory\\Asp.NET Core\\Learning ASP.NET Core\\Learn.AspNetCore\\Learn.AspNetCore.csproj": {}
   },
   "projects": {
-    "C:\\Working Directory\\Asp.NET Core\\Learn.AspNetCore\\Learn.AspNetCore.csproj": {
+    "C:\\Working Directory\\Asp.NET Core\\Learning ASP.NET Core\\Learn.AspNetCore\\Learn.AspNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Working Directory\\Asp.NET Core\\Learn.AspNetCore\\Learn.AspNetCore.csproj",
+        "projectUniqueName": "C:\\Working Directory\\Asp.NET Core\\Learning ASP.NET Core\\Learn.AspNetCore\\Learn.AspNetCore.csproj",
         "projectName": "Learn.AspNetCore",
-        "projectPath": "C:\\Working Directory\\Asp.NET Core\\Learn.AspNetCore\\Learn.AspNetCore.csproj",
+        "projectPath": "C:\\Working Directory\\Asp.NET Core\\Learning ASP.NET Core\\Learn.AspNetCore\\Learn.AspNetCore.csproj",
         "packagesPath": "C:\\Users\\OPL-PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Working Directory\\Asp.NET Core\\Learn.AspNetCore\\obj\\",
+        "outputPath": "C:\\Working Directory\\Asp.NET Core\\Learning ASP.NET Core\\Learn.AspNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
